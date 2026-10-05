@@ -44,7 +44,7 @@ export default defineConfig({
       }
     ],
 
-    outlineTitle: '本页大纲',
+    outlineTitle: '页面导航',
     docFooter: { prev: '上一页', next: '下一页' }
   }
 })
